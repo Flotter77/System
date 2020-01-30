@@ -1,0 +1,21 @@
+echo
+echo 123
+echo one123
+echo 123one
+echo @#$%^&*()
+echo '
+echo one   two
+    echo one two
+    
+echo one >
+echo one>
+echo>one
+rm one
+
+echo "one"
+echo ">"
+echo "one   two"
+echo one"two"
+echo "one"two
+echo "one
+one"two

@@ -1,0 +1,14 @@
+pwd
+pwd > file1
+cat file1
+cat < file1
+cat file1 > file2
+cat < file1 > file2
+cat > file1 < file2
+cat > file2 file1
+< file1
+cat file1 <
+cat file1 >
+cat file1 > file2 > file3
+cat < file1 < file2
+rm file1 file2
